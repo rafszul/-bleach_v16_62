@@ -241,13 +241,7 @@ Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","touchend",
 //=========================================================
 
 //Edge symbol: 'cardQR'
-(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",0,function(sym,e){sym.stop();});
-//Edge binding end
-Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",500,function(sym,e){sym.stop();});
-//Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_Group3}","mouseover",function(sym,e){sym.play("clip");});
-//Edge binding end
-})("cardQRBleachTumblr");
+(function(symbolName){})("cardQRBleachTumblr");
 //Edge symbol end:'cardQRBleachTumblr'
 
 //=========================================================
