@@ -65,7 +65,7 @@ Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",69002,function(sym
 //=========================================================
 
 //Edge symbol: 'euAltLogo'
-(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",15000,function(sym,e){sym.stop();});
+(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",19000,function(sym,e){sym.stop();});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_Text5}","click",function(sym,e){window.open("https://twitter.com/search?src=typd&q=%23transeuropacaravans","_null");});
 //Edge binding end
