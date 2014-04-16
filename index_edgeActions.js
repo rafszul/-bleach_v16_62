@@ -27,7 +27,7 @@ Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",63003,function(sym
 //Edge binding end
 Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",66750,function(sym,e){sym.stop();});
 //Edge binding end
-Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",72497,function(sym,e){sym.stop();});
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",71750,function(sym,e){sym.stop();});
 //Edge binding end
 Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",75753,function(sym,e){sym.stop();});
 //Edge binding end
@@ -35,11 +35,11 @@ Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",80004,function(sym
 //Edge binding end
 Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",81996,function(sym,e){sym.stop();});
 //Edge binding end
-Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",84007,function(sym,e){sym.stop();});
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",84000,function(sym,e){sym.stop();});
 //Edge binding end
-Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",85999,function(sym,e){sym.stop();});
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",86000,function(sym,e){sym.stop();});
 //Edge binding end
-Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",88512,function(sym,e){sym.stop();});
+Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",88500,function(sym,e){sym.stop();});
 //Edge binding end
 Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",93000,function(sym,e){sym.stop();});
 //Edge binding end
@@ -65,7 +65,7 @@ Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",69002,function(sym
 //=========================================================
 
 //Edge symbol: 'euAltLogo'
-(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",19000,function(sym,e){sym.stop();});
+(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",15000,function(sym,e){sym.stop();});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_Text5}","click",function(sym,e){window.open("https://twitter.com/search?src=typd&q=%23transeuropacaravans","_null");});
 //Edge binding end
@@ -305,4 +305,10 @@ Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",0,function(sym,e){
 //Edge binding end
 })("roadSVGBack");
 //Edge symbol end:'roadSVGBack'
+
+//=========================================================
+
+//Edge symbol: 'erarth'
+(function(symbolName){})("erarth");
+//Edge symbol end:'erarth'
 })(jQuery,AdobeEdge,"EDGE-27978891");
