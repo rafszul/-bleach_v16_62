@@ -1,0 +1,551 @@
+{
+	"name": "dramatisPersonae001-3.ai",
+	"width": 664,
+	"height": 9699,
+	"layers": [
+		{
+			"x": "-0.00",
+			"y": "2676.94",
+			"r": "644.35",
+			"b": "2918.96",
+			"width": "644.35",
+			"height": "242.02",
+			"layername": "Layer 41.png",
+			"name": "Layer-41",
+			"type": "png",
+			"filename": "Layer-41.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.90",
+			"y": "2983.10",
+			"r": "643.45",
+			"b": "3193.52",
+			"width": "642.55",
+			"height": "210.42",
+			"layername": "Layer 40.png",
+			"name": "Layer-40",
+			"type": "png",
+			"filename": "Layer-40.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.15",
+			"y": "3278.21",
+			"r": "642.47",
+			"b": "3498.41",
+			"width": "642.32",
+			"height": "220.20",
+			"layername": "Layer 39.png",
+			"name": "Layer-39",
+			"type": "png",
+			"filename": "Layer-39.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.29",
+			"y": "3563.55",
+			"r": "640.97",
+			"b": "3793.73",
+			"width": "640.68",
+			"height": "230.18",
+			"layername": "Layer 38.png",
+			"name": "Layer-38",
+			"type": "png",
+			"filename": "Layer-38.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.38",
+			"y": "3870.81",
+			"r": "640.88",
+			"b": "4070.97",
+			"width": "640.50",
+			"height": "200.16",
+			"layername": "Layer 37.png",
+			"name": "Layer-37",
+			"type": "png",
+			"filename": "Layer-37.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "6.13",
+			"y": "2.38",
+			"r": "644.61",
+			"b": "244.25",
+			"width": "638.48",
+			"height": "241.87",
+			"layername": "Layer 36.png",
+			"name": "Layer-36",
+			"type": "png",
+			"filename": "Layer-36.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.52",
+			"y": "288.11",
+			"r": "644.54",
+			"b": "537.05",
+			"width": "643.02",
+			"height": "248.94",
+			"layername": "Layer 35.png",
+			"name": "Layer-35",
+			"type": "png",
+			"filename": "Layer-35.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "591.91",
+			"r": "646.87",
+			"b": "836.60",
+			"width": "646.87",
+			"height": "244.69",
+			"layername": "Layer 34.png",
+			"name": "Layer-34",
+			"type": "png",
+			"filename": "Layer-34.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "7.51",
+			"y": "880.30",
+			"r": "645.88",
+			"b": "1131.98",
+			"width": "638.37",
+			"height": "251.68",
+			"layername": "Layer 33.png",
+			"name": "Layer-33",
+			"type": "png",
+			"filename": "Layer-33.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "7104.49",
+			"r": "621.55",
+			"b": "7362.22",
+			"width": "642.82",
+			"height": "257.73",
+			"layername": "Layer 32.png",
+			"name": "Layer-32",
+			"type": "png",
+			"filename": "Layer-32.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "7412.39",
+			"r": "597.06",
+			"b": "7633.51",
+			"width": "618.33",
+			"height": "221.12",
+			"layername": "Layer 31.png",
+			"name": "Layer-31",
+			"type": "png",
+			"filename": "Layer-31.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "7704.62",
+			"r": "565.18",
+			"b": "7940.29",
+			"width": "586.45",
+			"height": "235.67",
+			"layername": "Layer 30.png",
+			"name": "Layer-30",
+			"type": "png",
+			"filename": "Layer-30.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "7977.72",
+			"r": "621.55",
+			"b": "8247.90",
+			"width": "642.82",
+			"height": "270.18",
+			"layername": "Layer 29.png",
+			"name": "Layer-29",
+			"type": "png",
+			"filename": "Layer-29.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "8294.61",
+			"r": "621.55",
+			"b": "8515.45",
+			"width": "642.82",
+			"height": "220.84",
+			"layername": "Layer 28.png",
+			"name": "Layer-28",
+			"type": "png",
+			"filename": "Layer-28.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "8589.86",
+			"r": "642.82",
+			"b": "8844.64",
+			"width": "642.82",
+			"height": "254.78",
+			"layername": "Layer 27.png",
+			"name": "Layer-27",
+			"type": "png",
+			"filename": "Layer-27.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "9496.42",
+			"r": "594.97",
+			"b": "9700.81",
+			"width": "594.97",
+			"height": "204.39",
+			"layername": "Layer 26.png",
+			"name": "Layer-26",
+			"type": "png",
+			"filename": "Layer-26.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "9183.07",
+			"r": "642.82",
+			"b": "9432.86",
+			"width": "642.82",
+			"height": "249.79",
+			"layername": "Layer 25.png",
+			"name": "Layer-25",
+			"type": "png",
+			"filename": "Layer-25.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "8877.69",
+			"r": "642.82",
+			"b": "9149.00",
+			"width": "642.82",
+			"height": "271.31",
+			"layername": "Layer 24.png",
+			"name": "Layer-24",
+			"type": "png",
+			"filename": "Layer-24.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "5621.82",
+			"r": "640.74",
+			"b": "5842.21",
+			"width": "640.74",
+			"height": "220.39",
+			"layername": "Layer 23.png",
+			"name": "Layer-23",
+			"type": "png",
+			"filename": "Layer-23.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.17",
+			"y": "5912.21",
+			"r": "640.57",
+			"b": "6132.55",
+			"width": "640.40",
+			"height": "220.34",
+			"layername": "Layer 22.png",
+			"name": "Layer-22",
+			"type": "png",
+			"filename": "Layer-22.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.13",
+			"y": "6505.10",
+			"r": "640.61",
+			"b": "6720.38",
+			"width": "640.48",
+			"height": "215.28",
+			"layername": "Layer 21.png",
+			"name": "Layer-21",
+			"type": "png",
+			"filename": "Layer-21.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.17",
+			"y": "6222.31",
+			"r": "597.60",
+			"b": "6422.44",
+			"width": "597.43",
+			"height": "200.13",
+			"layername": "Layer 20.png",
+			"name": "Layer-20",
+			"type": "png",
+			"filename": "Layer-20.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.04",
+			"y": "6789.86",
+			"r": "640.70",
+			"b": "7020.05",
+			"width": "640.66",
+			"height": "230.19",
+			"layername": "Layer 19.png",
+			"name": "Layer-19",
+			"type": "png",
+			"filename": "Layer-19.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.39",
+			"y": "1186.36",
+			"r": "625.71",
+			"b": "1442.39",
+			"width": "610.32",
+			"height": "256.03",
+			"layername": "Layer 18.png",
+			"name": "Layer-18",
+			"type": "png",
+			"filename": "Layer-18.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "3.18",
+			"y": "1499.53",
+			"r": "637.92",
+			"b": "1709.94",
+			"width": "634.74",
+			"height": "210.41",
+			"layername": "Layer 17.png",
+			"name": "Layer-17",
+			"type": "png",
+			"filename": "Layer-17.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.35",
+			"y": "1782.15",
+			"r": "640.75",
+			"b": "2027.33",
+			"width": "640.40",
+			"height": "245.18",
+			"layername": "Layer 16.png",
+			"name": "Layer-16",
+			"type": "png",
+			"filename": "Layer-16.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.30",
+			"y": "2095.01",
+			"r": "640.80",
+			"b": "2295.18",
+			"width": "640.50",
+			"height": "200.17",
+			"layername": "Layer 15.png",
+			"name": "Layer-15",
+			"type": "png",
+			"filename": "Layer-15.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "2362.15",
+			"r": "641.10",
+			"b": "2612.49",
+			"width": "641.10",
+			"height": "250.34",
+			"layername": "Layer 14.png",
+			"name": "Layer-14",
+			"type": "png",
+			"filename": "Layer-14.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "3.34",
+			"y": "4139.42",
+			"r": "637.98",
+			"b": "4339.61",
+			"width": "634.64",
+			"height": "200.19",
+			"layername": "Layer 13.png",
+			"name": "Layer-13",
+			"type": "png",
+			"filename": "Layer-13.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.69",
+			"y": "4422.27",
+			"r": "641.20",
+			"b": "4637.42",
+			"width": "640.51",
+			"height": "215.15",
+			"layername": "Layer 12.png",
+			"name": "Layer-12",
+			"type": "png",
+			"filename": "Layer-12.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.60",
+			"y": "4729.77",
+			"r": "641.29",
+			"b": "4929.93",
+			"width": "640.69",
+			"height": "200.16",
+			"layername": "Layer 11.png",
+			"name": "Layer-11",
+			"type": "png",
+			"filename": "Layer-11.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "5029.92",
+			"r": "641.89",
+			"b": "5210.49",
+			"width": "641.89",
+			"height": "180.57",
+			"layername": "Layer 10.png",
+			"name": "Layer-10",
+			"type": "png",
+			"filename": "Layer-10.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.71",
+			"y": "5312.34",
+			"r": "641.18",
+			"b": "5512.51",
+			"width": "640.47",
+			"height": "200.17",
+			"layername": "Layer 9.png",
+			"name": "Layer-9",
+			"type": "png",
+			"filename": "Layer-9.png",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-7859.73",
+			"y": "-6556.82",
+			"r": "8747.14",
+			"b": "9874.59",
+			"width": "16606.87",
+			"height": "16431.41",
+			"layername": "all.png",
+			"name": "all",
+			"type": "png",
+			"filename": "all.png",
+			"visible": false,
+			"items": [
+				
+			]
+		}
+	]
+}
