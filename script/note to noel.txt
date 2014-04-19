@@ -1,0 +1,40 @@
+
+Hi Noel,
+
+
+I hope you're great and enjoying the weather, weekend, holidays or whatever else there is at the moment. I'll be trying to disrupt this peaceful time
+
+
+I've set up the network and I am wiring up necessary functionalities. at the same time we are filling in the content which is happening in a public repository on gitHub so you might want to go and check them out. here's one repo https://github.com/rafszul/-bleach_v16_62 
+
+you will need something more than your telephone or tablet to do so but it would be worthwhile. if you have only a smartphone or tablet then here is an update on some work on graphics http://bit.ly/1eMnovn  
+
+
+in any case if we are to go anywhere with this we need to start getting people on board. I will open the network for registration and start using it for publishing exemplary instructions which would form the basic game mechanic.
+
+All would be required from people is to register, and follow instructions on screen if there are any. If not then [They can also] simply inspect the site/page/content available. the stuff will mostly contain the materials about their potential in-game characters/profiles. They can use whatever device available provided it is connected to the net and runs a web browser 
+
+However it could [would] make sense to get them to try running [test / run] the animation by downloading the zip from another [this] github repo, unpacking it and running index.html file (or if unavailable then any other .html file) in the main folder created in the archive folder. They would need a computer to do that.
+
+here is a link to the repo: https://github.com/rafszul/-bleach_v16_62 if they are up for it.
+
+and two links with the animation available online: 1:  https://fanman-gentes.codio.io/ 
+
+2: http://bleachv1662.businesscatalyst.com/ 
+
+these links might not work properly or the content might behave strangely
+
+I would [will] have initial instructions set up so anyone can join the game
+
+which would [will] be fun on its own but let's not forget about the virus ;-)
+
+
+we would have to think about organising the printing [we need to print x by y day]
+
+there isn't much time but it might be [I think it is] worth the extra effort necessary to pull it off
+
+if we are to pull it off that is
+
+my understanding is we are
+
+let me know whats the status and i'll get the registration open for tomorrow morning
