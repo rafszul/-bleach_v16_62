@@ -34,7 +34,9 @@ works surprisingly well considering no opt but it runs via link to preview from 
 
 page turn in lower right corner of the comp
 
-https://chicle-tartan.codio.io/bleach_v16_62-005-3.html - it might not kick start so if you are really keen on seeing it (even if just for the music ;-)) then either download the whole comp or drop me a line i will arange private viewing for you
+https://chicle-tartan.codio.io/bleach_v16_62-005-3.html - it might not kick start and get stuck on loading screen in which case copy the link and try all the browsers you have
+
+if no success and you are really keen on seeing it (and it's worth it even if just for the music ;-)) then either download the whole comp or drop me a line and i will arange a private viewing for you ;-)
 
 thanks and good luck
 
