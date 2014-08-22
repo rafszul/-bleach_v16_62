@@ -10,19 +10,17 @@ as a preview: [http://bleachv1662.businesscatalyst.com/](http://bleachv1662.busi
 
 the pilot, which so far is the real thing has to be [downloaded as a .zip](https://github.com/rafszul/-bleach_v16_62/archive/master.zip), unpacked and run in the browser (we talking: bleach_v16_62-005-3.html)
 
-i left it off as is and have no inclination to get back to untill needed so no optimising, smoothing up etc 
+i left it off unoptimised and overloaded with unneceseary gif files with clear difference where prototype uses pngs made from svgs which i would want to use. since we had little time to play as [#transeuropacaravans](http://citizenspact.eu/) was setting off i left it with no optimising, smoothing up etc 
 
 btw firefox does not support advanced css filters so it might not display the real thing but i am not sure how big the difference does it make
 
 # * * * update * * * 
 
-the issues with publishing adobe edge comps on wordpress multisite i had during work on diasporachangemakers.net and neighbours.org was a massive issue for simple and apparently rapid workflow.
+publishing adobe edge comps on wordpress multisite bogged down our simple and apparently rapid workflow.
 
 i never felt like i had the time to look into it and there were multiple possibilities as to whys and wherefores 
 
-since we resolved github is the best immediately available and fairly accessible tool that could become replacement to all the years of socialisation and structure building known i had the web version there but weren't really doing anything with it
-
-it gave me loads of headaches published via business catalyst but i think this was mainly result of the file size (40mgb) which is pretty rich for a slideshow with music purporting to be an alternate reality multiplayer game.
+i guess a most issues are due to the final file size (40mgb) which is pretty rich for a slideshow with music purporting to be an alternate reality multiplayer game ;-)
 
 there was not enough time though and finding ourselves with reduced capability for creation of text and graphical content we still managed to cover some ground
 
@@ -36,5 +34,7 @@ works surprisingly well considering no opt but it runs via link to preview from 
 
 page turn in lower right corner of the comp
 
-http://bleach.neighbrs.org/2014/06/06/bleach_v16_62/
+https://chicle-tartan.codio.io/bleach_v16_62-005-3.html - it might not kick start so if you are really keen on seeing it (even if just for the music ;-)) then either download the whole comp or drop me a line i will arange private viewing for you
+
+thanks and good luck
 
