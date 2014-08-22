@@ -1,8 +1,10 @@
-# #bleach_v16_62 
+## #bleach_v16_62 
+
+![#bleach_v16_62 poster image][1]
 
 is an interactive story taking place in near and dark future on european continent. it was hacked together by [we are the playMakers](http://wearetheplaymakers.com/) as a complimentary feat to [#transeuropacaravans](http://citizenspact.eu/) an awesome initiative by [european alternatives](http://www.euroalter.com/) 
 
-as a preview: [http://bleachv1662.businesscatalyst.com/](http://bleachv1662.businesscatalyst.com/) materials from work on characters and character-sheet creation pasted together with suitable narrative
+as a preview/teaser: [http://bleachv1662.businesscatalyst.com/](http://bleachv1662.businesscatalyst.com/) materials from work on characters and character-sheet creation pasted together with suitable narrative
 
 &nbsp;
 
@@ -20,7 +22,7 @@ publishing adobe edge comps on wordpress multisite bogged down our simple and ap
 
 i never felt like i had the time to look into it and there were multiple possibilities as to whys and wherefores 
 
-i guess a most issues are due to the final file size (40mgb) which is pretty rich for a slideshow with music purporting to be an alternate reality multiplayer game ;-)
+i guess a most issues were due to file size of the final comp (40mgb) which is pretty rich for a slideshow with music purporting to be an alternate reality multiplayer game ;-)
 
 there was not enough time though and finding ourselves with reduced capability for creation of text and graphical content we still managed to cover some ground
 
@@ -40,3 +42,8 @@ if no success and you are really keen on seeing it (and it's worth it even if ju
 
 thanks and good luck
 
+
+  [1]: https://raw.githubusercontent.com/rafszul/-bleach_v16_62/master/images/Poster.png
+
+
+> written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
