@@ -1,6 +1,6 @@
 ## #bleach_v16_62 
 
-![#bleach_v16_62 poster image][1]
+[![#bleach_v16_62 poster image][1]](https://chicle-tartan.codio.io/bleach_v16_62-005-3.html)
 
 is an interactive story taking place in near and dark future on european continent. it was hacked together by [we are the playMakers](http://wearetheplaymakers.com/) as a complimentary feat to [#transeuropacaravans](http://citizenspact.eu/) an awesome initiative by [european alternatives](http://www.euroalter.com/) 
 
