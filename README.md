@@ -43,7 +43,7 @@ if no success and you are really keen on seeing it (and it's worth it even if ju
 thanks and good luck
 
 
-  [1]: https://raw.githubusercontent.com/rafszul/-bleach_v16_62/master/images/Poster.png
+  [1]: https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/bleach_v16_62-logo.jpg
 
 
 > written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
