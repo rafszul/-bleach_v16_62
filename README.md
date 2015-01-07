@@ -2,11 +2,34 @@
 
 [![#bleach_v16_62 poster image][1]](https://chicle-tartan.codio.io/bleach_v16_62-005-3.html)
 
-is an interactive story taking place in near and dark future on european continent. it was hacked together by [we are the playMakers](http://wearetheplaymakers.com/) as a complimentary feat to [#transeuropacaravans](http://citizenspact.eu/) an awesome initiative by [european alternatives](http://www.euroalter.com/) 
+is an interactive story taking place in near and dark future on european continent. it was hacked together by [we are the playMakers](http://wearetheplaymakers.com/) as a complimentary feat to [#transeuropacaravans](http://citizenspact.eu/) an awesome initiative by [european alternatives](http://www.euroalter.com/) taking place across europe. 
 
-as a preview/teaser: [http://bleachv1662.businesscatalyst.com/](http://bleachv1662.businesscatalyst.com/) materials from work on characters and character-sheet creation pasted together with suitable narrative
+as a preview/teaser: [http://bleachv1662.businesscatalyst.com/](http://bleachv1662.businesscatalyst.com/) materials from work on character-sheets-app pasted together with suitable narrative
 
-&nbsp;
+to see heavy-client demo click the graphic above or go to [codio box here](https://chicle-tartan.codio.io/bleach_v16_62-005-3.html). 
+
+remember it is a client demo which means:
+
+- it was our initiative
+- made outside of working hours
+- on a crazy schedule
+- never made it to production as the crews drove off
+
+the result is preatty neat anyway despite:
+
+- overuse of poor quality gif files (which are to go)
+- large size (loadable only thanks to cloud infrastructure and codio)
+- lack of any ux considerations
+
+so without any more b******* i give you [#bleach_v16_62](https://chicle-tartan.codio.io/bleach_v16_62-005-3.html) 
+
+there is no ui so to speak and you swap pages using an icon in the lower right corner. 
+
+make sure you read hover over the cards on the last page to see the credits.
+
+
+
+<!--
 
 # * * * update * * * 
 
@@ -41,6 +64,8 @@ https://chicle-tartan.codio.io/bleach_v16_62-005-3.html - it might not kick star
 if no success and you are really keen on seeing it (and it's worth it even if just for the music ;-)) then either download the whole comp or drop me a line and i will arange a private viewing for you ;-)
 
 thanks and good luck
+
+-->
 
 
   [1]: https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/bleach_v16_62-logo.jpg
