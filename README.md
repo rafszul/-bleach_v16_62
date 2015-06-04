@@ -1,12 +1,13 @@
-## [#bleach_v16_62](http://_bleach_v16_62.surge.sh/)
 
 [![#bleach_v16_62 poster image][1]](http://_bleach_v16_62.surge.sh/)
 
 is an interactive story taking place in near and dark future on european continent. it was hacked together by [we are the playMakers](https://github.com/weAreThePlayMakers) as a complimentary feat to [#transeuropacaravans](http://citizenspact.eu/) an awesome initiative by [european alternatives](http://www.euroalter.com/) taking place across europe.
 
-as a preview/teaser: [http://bleachv1662.businesscatalyst.com/](http://bleachv1662.businesscatalyst.com/) materials from work on character-sheets-app pasted together with suitable narrative
+for heavy-client demo click the graphic above or here:  [_bleach_v16_62.surge.sh](http://_bleach_v16_62.surge.sh/).
 
-to see heavy-client demo click the graphic above or [_bleach_v16_62.surge.sh](http://_bleach_v16_62.surge.sh/).
+as a preview/teaser we also released: [http://bleachv1662.businesscatalyst.com/](http://bleachv1662.businesscatalyst.com/) materials from work on character-sheets-app pasted together with suitable narrative
+
+---
 
 remember it is a client demo which means:
 
