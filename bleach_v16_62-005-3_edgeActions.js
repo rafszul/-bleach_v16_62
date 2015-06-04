@@ -109,17 +109,17 @@ Symbol.bindElementAction(compId,symbolName,"${_transEuroCarLogo}","touchend",fun
 //=========================================================
 
 //Edge symbol: 'wATPMImpCreaIntro'
-(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_wATPMlogoTrans119x1233Col-03}","click",function(sym,e){window.open("https://www.facebook.com/weAreThePlaymakers/","_null");});
+(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_wATPMlogoTrans119x1233Col-03}","click",function(sym,e){window.open("https://github.com/weAreThePlayMakers/","_null");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_wATPMlogoTrans119x1233Col-03}","dblclick",function(sym,e){window.open("https://www.facebook.com/weAreThePlaymakers/","_null");});
+Symbol.bindElementAction(compId,symbolName,"${_wATPMlogoTrans119x1233Col-03}","dblclick",function(sym,e){window.open("https://github.com/weAreThePlayMakers/","_null");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_wATPMlogoTrans119x1233Col-03}","touchend",function(sym,e){window.open("https://www.facebook.com/weAreThePlaymakers/","_null");});
+Symbol.bindElementAction(compId,symbolName,"${_wATPMlogoTrans119x1233Col-03}","touchend",function(sym,e){window.open("https://github.com/weAreThePlayMakers/","_null");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","click",function(sym,e){window.open("http://impertinentcreations.com/","_null");});
+Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","click",function(sym,e){window.open("https://github.com/impertinent-creations/","_null");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","dblclick",function(sym,e){window.open("http://impertinentcreations.com/","_null");});
+Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","dblclick",function(sym,e){window.open("https://github.com/impertinent-creations/","_null");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","touchend",function(sym,e){window.open("http://impertinentcreations.com/","_null");});
+Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","touchend",function(sym,e){window.open("https://github.com/impertinent-creations/","_null");});
 //Edge binding end
 })("wATPMImpCreaIntro");
 //Edge symbol end:'wATPMImpCreaIntro'
@@ -273,6 +273,7 @@ Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","touchend",
 //Edge symbol: 'qrCodes'
 (function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_cardQR_1Kozilek}","dblclick",function(sym,e){window.open("http://havingfunwithrecords.com/kozilek/","_null");});
 //Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${_cardQR_1wATPM}","dblclick",function(sym,e){window.open("https://github.com/weAreThePlayMakers/","_null");});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_cardQR_1EuAlt}","dblclick",function(sym,e){window.open("http://www.euroalter.com/","_null");});
 //Edge binding end
