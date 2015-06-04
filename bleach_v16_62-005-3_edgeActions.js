@@ -273,7 +273,6 @@ Symbol.bindElementAction(compId,symbolName,"${_impertinentCreation}","touchend",
 //Edge symbol: 'qrCodes'
 (function(symbolName){Symbol.bindElementAction(compId,symbolName,"${_cardQR_1Kozilek}","dblclick",function(sym,e){window.open("http://havingfunwithrecords.com/kozilek/","_null");});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${_cardQR_1wATPM}","dblclick",function(sym,e){window.open("http://wearetheplaymakers.com/","_null");});
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"${_cardQR_1EuAlt}","dblclick",function(sym,e){window.open("http://www.euroalter.com/","_null");});
 //Edge binding end
